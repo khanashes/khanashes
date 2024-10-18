@@ -1,29 +1,32 @@
 # Hi there, I'm Hamza Khan 👋
 
-I'm a passionate and detail-oriented Python developer with [X years] of experience in building and maintaining applications using Django and Flask frameworks. I also have experience working with JavaScript, React, and Redux for building dynamic and interactive user interfaces.
+I’m a passionate Python developer with years of hands-on experience in building high-performance web applications. My expertise spans across backend development, cloud solutions, and full-stack engineering, where I bring ideas to life with clean, scalable code. I thrive on solving complex problems and architecting efficient systems that power everything from startups to large-scale enterprises.
 
-## 🔭 Projects
+## 🔭 What I Do
 
-- **Delta Scan 3D Viewer** - An inspection-based system for large 3D photogrammetry images, utilizing Unreal Engine, Django Rest Framework, AWS rendering services, Three.js, React, PostgreSQL, and AWS services.
-- **DEXI** - A decentralized cryptocurrency exchange market, where I led the project architecture from start to finish, utilizing Solidity, Web3.js, and Infura.
-- **Column US** - Worked on a public notice platform, built features and end-to-end test cases utilizing React, Redux, TypeScript, Selenium, Github Actions, Firebase, Firestore, GCP, Stripe payment, and ZenHub.
-- **LMS Taleemabad** - Developed a cloud-distributed learning management system for schools, utilizing Django, Django Templating Language, AWS RDS, Channels, Websockets, Ajax, JavaScript, and AWS Elastic Beanstalk.
+As a Python enthusiast, I specialize in backend systems, leveraging the power of **Django** and **Flask** to build secure and scalable web applications. I’ve also mastered frontend technologies like **React** and **Redux**, allowing me to work seamlessly across the stack. Whether it’s designing RESTful APIs, working with real-time WebSockets, or optimizing databases, I ensure that every part of the system works in harmony to deliver a smooth user experience.
 
-## 🌱 Skills
+I am well-versed in cloud infrastructure, deploying applications on **AWS** using services like **RDS**, **EC2**, **S3**, and **Elastic Beanstalk**. My experience with **Docker** allows me to create containerized environments for reproducible development and scalable deployments.
+
+## 🌱 Skills & Expertise
 
 - **Languages:** Python, JavaScript, SQL
 - **Frameworks:** Django, Flask, React, Redux
+- **Popular Libraries & Tools:** Celery, Redis, Pandas, NumPy, Axios, Webpack, React Router
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, Jira, Trello, Docker, AWS
+- **Cloud Platforms:** AWS (RDS, EC2, S3, Lambda, Elastic Beanstalk), GCP
+- **Version Control & CI/CD:** Git, GitHub Actions, Jenkins, Docker
+- **Other Tools:** Jira, Trello, Slack, Postman, Selenium
 
-## 📈 Stats
+## 📈 Stats & Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanashes&layout=compact)](https://github.com/[YourUsername]/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanashes&layout=compact&theme=radical)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=khanashes&show_icons=true&count_private=true&hide=stars,issues)](https://github.com/[YourUsername]/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanashes&show_icons=true&count_private=true&hide=stars,issues&theme=radical)
 
-## 📫 Let's Connect
+## 📫 Let’s Connect!
 
-- LinkedIn: https://www.linkedin.com/in/hamza-khan-b589b5139
+- LinkedIn: [Hamza Khan](https://www.linkedin.com/in/hamza-khan-b589b5139)
 - Email: hamzaashes@gmail.com
 
+I’m always eager to explore new challenges and opportunities in tech. Let’s build something amazing together!
